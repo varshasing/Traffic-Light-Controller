@@ -1,0 +1,16 @@
+Varsha Singh:    U50072781
+James Knee:      U14600603
+
+Varsha and I worked through the lab using the resources provided in the lab instructions. We used the links bellow as our main resources for the lab, they were mainly used for syntax and creating the functions for the button listeners.
+
+Assumptions:
+- You wire the board as described in the lab instructions.
+- That when echoing a new HZ value into the myTraffic file, we assume it has the new number and 8 or less other characters.
+- Also assume that is multiple digits are entered it will take the first digit and stick with that.
+- We also assume the pedestrian can not be called in the the flashing yellow or flashing red modes.
+
+Links:
+https://elixir.bootlin.com/linux/v4.19.82/source/drivers/leds/leds-gpio.c
+https://perma.cc/4GWJ-A7C7
+https://perma.cc/WAZ3-DY5V
+https://cdn-shop.adafruit.com/datasheets/BBB_SRM.pdf
